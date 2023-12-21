@@ -1,0 +1,7 @@
+D:\Theme13Pr2\Theme13Pr2\bin\Debug\Theme13Pr2.exe.config
+D:\Theme13Pr2\Theme13Pr2\bin\Debug\Theme13Pr2.exe
+D:\Theme13Pr2\Theme13Pr2\bin\Debug\Theme13Pr2.pdb
+D:\Theme13Pr2\Theme13Pr2\obj\Debug\Theme13Pr2.csproj.AssemblyReference.cache
+D:\Theme13Pr2\Theme13Pr2\obj\Debug\Theme13Pr2.csproj.CoreCompileInputs.cache
+D:\Theme13Pr2\Theme13Pr2\obj\Debug\Theme13Pr2.exe
+D:\Theme13Pr2\Theme13Pr2\obj\Debug\Theme13Pr2.pdb
